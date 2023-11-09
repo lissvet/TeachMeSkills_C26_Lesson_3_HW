@@ -1,7 +1,10 @@
 # TeachMeSkills_C26_Lesson_3_HW
 Homework for the third lesson.
+
 In main_homework_3:
+
 In class Task_1 we made an explicit cast of a variable type double to an int type.
+
 In class Task_2 we added variables with type char and type int equal to 1, in the debug it was shown that if you enter 1 into type char instead of '1', it will perceive it as one, but display its character value '\u0001'.
 In class Task_3 the program determines whether the number entered on the console is even or odd.
 In class Task_4 the program determines whether the outside temperature is cold, warm or normal based on the temperature entered into the console.
